@@ -4,19 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2cb1aa8-6fca-4fbc-b297-7a9e796c18ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/prefixAndPostfix.java" afterDir="false" />
+    <list default="true" id="b2cb1aa8-6fca-4fbc-b297-7a9e796c18ef" name="Changes" comment="add PrefixAndPostfix.java">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicalOpTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/PrivedenieCast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/BasicKeyboardReader/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/For/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/For/Test2CiklBezTela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/HelpJava/HelpJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/PrefixAndPostfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/PrefixAndPostfix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="prefixAndPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.Chapter1.arithmeticOperations.prefixAndPostfix" />
+}</component>
+  <component name="RunManager" selected="Application.Test2CiklBezTela">
+    <configuration name="HelpJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.HelpJava.HelpJava" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.HelpJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicalOpTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter1.arithmeticOperations.LogicalOpTable" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
@@ -67,9 +81,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Shield.Chapter3.ControlOperators.For.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.For.Test1" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.For.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.BasicKeyboardReader.Test1" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.BasicKeyboardReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2CiklBezTela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.For.Test2CiklBezTela" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.For.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.prefixAndPostfix" />
+        <item itemvalue="Application.Test2CiklBezTela" />
+        <item itemvalue="Application.Shield.Chapter3.ControlOperators.For.Test1" />
+        <item itemvalue="Application.HelpJava" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.LogicalOpTable" />
       </list>
     </recent_temporary>
   </component>
@@ -82,6 +139,14 @@
       <option name="presentableId" value="Default" />
       <updated>1686732306770</updated>
     </task>
+    <task id="LOCAL-00001" summary="add PrefixAndPostfix.java">
+      <created>1686743259514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686743259514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,5 +159,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add PrefixAndPostfix.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="add PrefixAndPostfix.java" />
   </component>
 </project>

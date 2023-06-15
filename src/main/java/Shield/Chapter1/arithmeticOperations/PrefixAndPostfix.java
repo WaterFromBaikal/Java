@@ -8,14 +8,15 @@ package Shield.Chapter1.arithmeticOperations;
 public class PrefixAndPostfix {
     public static void main(String[] args) {
         int a = 5;
-        int b = a++;
-        System.out.println("a = " + a);
-        System.out.println("b = " + b);
-        System.out.println("=========");
-        a = 5;
-        b = ++a;
-        System.out.println("a = " + a);
-        System.out.println("b = " + b);
+//        int b = a++;
+//        System.out.println("a = " + a);
+//        System.out.println("b = " + b);
+//        System.out.println("=========");
+//        a = 5;
+//        b = ++a;
+//        System.out.println("a = " + a);
+//        System.out.println("b = " + b);
+        System.out.println((double)a/2);
 
     }
 }
