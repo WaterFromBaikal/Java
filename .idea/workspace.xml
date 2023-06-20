@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2cb1aa8-6fca-4fbc-b297-7a9e796c18ef" name="Changes" comment="add PrefixAndPostfix.java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicalOpTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/PrivedenieCast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/BasicKeyboardReader/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/For/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/For/Test2CiklBezTela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/HelpJava/HelpJava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="b2cb1aa8-6fca-4fbc-b297-7a9e796c18ef" name="Changes" comment="add day2 code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/BasicKeyboardReader/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/Break/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/Break/Break6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/Continue/Continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/Cycle/Cycle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/HelpJava/HelpJava2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/HelpJava/HelpJava3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/Quiz/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/Quiz/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/ControlOperators/Quiz/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/PrefixAndPostfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/PrefixAndPostfix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +54,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test2CiklBezTela">
-    <configuration name="HelpJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.HelpJava.HelpJava" />
+  <component name="RunManager" selected="Application.Test3">
+    <configuration name="Cycle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.Cycle.Cycle1" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.Cycle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelpJava3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.HelpJava.HelpJava3" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
@@ -68,38 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOpTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.Chapter1.arithmeticOperations.LogicalOpTable" />
-      <module name="Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Shield.Chapter1.arithmeticOperations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Shield.Chapter3.ControlOperators.For.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.For.Test1" />
-      <module name="Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.For.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.BasicKeyboardReader.Test1" />
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.Quiz.Test1" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.BasicKeyboardReader.*" />
+          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.Quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +94,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2CiklBezTela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.For.Test2CiklBezTela" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.Quiz.Test2" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.For.*" />
+          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.Quiz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.Quiz.Test3" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.Quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2CiklBezTela" />
-        <item itemvalue="Application.Shield.Chapter3.ControlOperators.For.Test1" />
-        <item itemvalue="Application.HelpJava" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.LogicalOpTable" />
+        <item itemvalue="Application.Cycle1" />
+        <item itemvalue="Application.HelpJava3" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686743259514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add day2 code">
+      <created>1686840088969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686840088969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add PrefixAndPostfix.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add PrefixAndPostfix.java" />
+    <MESSAGE value="add day2 code" />
+    <option name="LAST_COMMIT_MESSAGE" value="add day2 code" />
   </component>
 </project>
