@@ -30,7 +30,5 @@ public class LogicOperation {
         System.out.println(i);
         boolean test = true;
         boolean test2 = false;
-
-
     }
 }
