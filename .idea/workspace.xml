@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2cb1aa8-6fca-4fbc-b297-7a9e796c18ef" name="Changes" comment="add day3 code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Mnogomernie/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Odnomerniy/File1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicOperation.java" afterDir="false" />
     </list>
@@ -47,52 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test1">
-    <configuration name="CSVGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.CSVGenerator" />
+  <component name="RunManager" selected="Application.Test6">
+    <configuration name="LogicOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter1.arithmeticOperations.LogicOperation" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shield.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DElete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.DElete" />
-      <module name="Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Shield.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="File1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Odnomerniy.File1" />
-      <module name="Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Shieldv12.Massive.Odnomerniy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Mnogomernie.Test1" />
-      <module name="Java.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Shieldv12.Massive.Mnogomernie.*" />
+          <option name="PATTERN" value="Shield.Chapter1.arithmeticOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +64,50 @@
       </method>
     </configuration>
     <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.ControlOperators.Quiz.Test3" />
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Test.Test3" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shield.Chapter3.ControlOperators.Quiz.*" />
+          <option name="PATTERN" value="Shieldv12.Massive.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Test.Test4" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shieldv12.Massive.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Test.Test5" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shieldv12.Massive.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Test.Test6" />
+      <module name="Java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shieldv12.Massive.Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,10 +117,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.File1" />
-        <item itemvalue="Application.DElete" />
-        <item itemvalue="Application.CSVGenerator" />
+        <item itemvalue="Application.LogicOperation" />
+        <item itemvalue="Application.Test6" />
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3" />
       </list>
     </recent_temporary>

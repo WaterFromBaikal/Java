@@ -24,7 +24,7 @@ public class LogicOperation {
         }
         System.out.println(i);
         //тк тут &&, идет проверка только первого false и до инкремента не доходит.
-        if (false & (++i < 100)){
+        if (false && (++i < 100)){
             System.out.println("Это строка не выведется");
         }
         System.out.println(i);
