@@ -1,4 +1,4 @@
-package Shieldv12.Massive.Test;
+package Shieldv12.Chapter3.Massive.Test;
 
 /**
  * Can you find the needle in the haystack?

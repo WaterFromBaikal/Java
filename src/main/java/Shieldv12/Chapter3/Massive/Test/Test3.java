@@ -1,4 +1,4 @@
-package Shieldv12.Massive.Test;
+package Shieldv12.Chapter3.Massive.Test;
 
 public class Test3 {
     public static void main(String[] args) {
@@ -10,7 +10,5 @@ public class Test3 {
         String str = "Diego, where is my money?";
         int value = str.indexOf("where");
         System.out.println(value);
-
-
     }
 }

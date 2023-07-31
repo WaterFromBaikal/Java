@@ -1,4 +1,4 @@
-package Shield.Chapter1.arithmeticOperations;
+package Shieldv12.Chapter4.arithmeticOperations;
 
 /**
  * ++х; // префиксная форма - y=++x - сначала идет инкремент, потом присвоение

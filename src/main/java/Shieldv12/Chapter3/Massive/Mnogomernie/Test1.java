@@ -1,4 +1,4 @@
-package Shieldv12.Massive.Mnogomernie;
+package Shieldv12.Chapter3.Massive.Mnogomernie;
 //page 102
 
 /**

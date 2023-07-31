@@ -1,4 +1,4 @@
-package Shield.Chapter1.arithmeticOperations;
+package Shieldv12.Chapter4.arithmeticOperations;
 
 /**
  *  "|" - Логическое И (сложение). Правда будет, если хотя бы один из аргументов - Правда
@@ -24,6 +24,7 @@ public class LogicOperation {
         }
         System.out.println(i);
         //тк тут &&, идет проверка только первого false и до инкремента не доходит.
+        i = 0;
         if (false && (++i < 100)){
             System.out.println("Это строка не выведется");
         }

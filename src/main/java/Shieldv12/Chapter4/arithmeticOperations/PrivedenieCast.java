@@ -1,4 +1,4 @@
-package Shield.Chapter1.arithmeticOperations;
+package Shieldv12.Chapter4.arithmeticOperations;
 
 /**
  *  автоматическое приведение - меньшее к большему. byte в int;

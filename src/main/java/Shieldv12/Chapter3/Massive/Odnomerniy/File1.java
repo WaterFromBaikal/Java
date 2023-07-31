@@ -1,4 +1,4 @@
-package Shieldv12.Massive.Odnomerniy;
+package Shieldv12.Chapter3.Massive.Odnomerniy;
 //page 100+
 
 /**

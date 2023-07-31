@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2cb1aa8-6fca-4fbc-b297-7a9e796c18ef" name="Changes" comment="add day3 code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/LocalVariable/Var/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter3/LocalVariable/Var/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter4/arithmeticOperations/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter4/arithmeticOperations/Test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter4/arithmeticOperations/LogicOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/LogicalOpTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter4/arithmeticOperations/LogicalOpTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/PrefixAndPostfix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter4/arithmeticOperations/PrefixAndPostfix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shield/Chapter1/arithmeticOperations/PrivedenieCast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter4/arithmeticOperations/PrivedenieCast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Mnogomernie/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter3/Massive/Mnogomernie/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Odnomerniy/File1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter3/Massive/Odnomerniy/File1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter3/Massive/Test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter3/Massive/Test/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter3/Massive/Test/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter3/Massive/Test/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter3/Massive/Test/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Shieldv12/Massive/Test/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter3/Massive/Test/Test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +60,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test6">
-    <configuration name="LogicOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shield.Chapter1.arithmeticOperations.LogicOperation" />
+  <component name="RunManager" selected="Application.Shieldv12.Chapter4.arithmeticOperations.Test2">
+    <configuration name="Shieldv12.Chapter4.arithmeticOperations.LogicOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter4.arithmeticOperations.LogicOperation" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shield.Chapter1.arithmeticOperations.*" />
+          <option name="PATTERN" value="Shieldv12.Chapter4.arithmeticOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Test.Test3" />
+    <configuration name="Shieldv12.Chapter4.arithmeticOperations.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter4.arithmeticOperations.Test1" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shieldv12.Massive.Test.*" />
+          <option name="PATTERN" value="Shieldv12.Chapter4.arithmeticOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Test.Test4" />
+    <configuration name="Shieldv12.Chapter4.arithmeticOperations.Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter4.arithmeticOperations.Test2" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shieldv12.Massive.Test.*" />
+          <option name="PATTERN" value="Shieldv12.Chapter4.arithmeticOperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Test.Test5" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.LocalVariable.Var.Test1" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shieldv12.Massive.Test.*" />
+          <option name="PATTERN" value="Shield.Chapter3.LocalVariable.Var.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shieldv12.Massive.Test.Test6" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shield.Chapter3.LocalVariable.Var.Test2" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shieldv12.Massive.Test.*" />
+          <option name="PATTERN" value="Shield.Chapter3.LocalVariable.Var.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LogicOperation" />
-        <item itemvalue="Application.Test6" />
-        <item itemvalue="Application.Test5" />
-        <item itemvalue="Application.Test4" />
-        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Shieldv12.Chapter4.arithmeticOperations.Test2" />
+        <item itemvalue="Application.Shieldv12.Chapter4.arithmeticOperations.LogicOperation" />
+        <item itemvalue="Application.Shieldv12.Chapter4.arithmeticOperations.Test1" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>

@@ -1,4 +1,4 @@
-package Shieldv12.Massive.Test;
+package Shieldv12.Chapter3.Massive.Test;
 
 /**
  * Write a function to split a string and convert it into an array of words.

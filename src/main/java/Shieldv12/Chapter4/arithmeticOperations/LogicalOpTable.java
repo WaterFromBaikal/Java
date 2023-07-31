@@ -1,4 +1,4 @@
-package Shield.Chapter1.arithmeticOperations;
+package Shieldv12.Chapter4.arithmeticOperations;
 
 public class LogicalOpTable {
     static int boolToInt (boolean a){
