@@ -1,4 +1,4 @@
-package Shieldv12.Chapter4.arithmeticOperations;
+package Shieldv12.Chapter4.ArithmeticOperations;
 
 /**
  *  "|" - Логическое И (сложение). Правда будет, если хотя бы один из аргументов - Правда
