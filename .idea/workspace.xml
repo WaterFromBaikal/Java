@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2cb1aa8-6fca-4fbc-b297-7a9e796c18ef" name="Changes" comment="add day3 code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/ArrayDiffClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StackEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/FilteredArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
