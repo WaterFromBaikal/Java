@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2cb1aa8-6fca-4fbc-b297-7a9e796c18ef" name="Changes" comment="add day3 code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/FilteredArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CodeWars/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FindOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter8/Inheritance/AnimalHierachyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter8/Inheritance/InheritanceMainEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter8/Inheritance/InrehitanceArrayEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter8/Inheritance/ShapeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter8/Inheritance/SuperEx2WaysOfUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Shieldv12/Chapter8/Inheritance/UsingMethodFromSuperClassWithSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StaticEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,13 +57,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Test1">
-    <configuration name="ArrayDiffClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars.ArrayDiffClass" />
+  <component name="RunManager" selected="Application.InheritanceMainEx1">
+    <configuration name="AnimalHierachyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter8.Inheritance.AnimalHierachyMain" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeWars.*" />
+          <option name="PATTERN" value="Shieldv12.Chapter8.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxVal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter6.Classes.BoxVal" />
+    <configuration name="InheritanceMainEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter8.Inheritance.InheritanceMainEx1" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shieldv12.Chapter6.Classes.*" />
+          <option name="PATTERN" value="Shieldv12.Chapter8.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars.Test1" />
+    <configuration name="InrehitanceArrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter8.Inheritance.InrehitanceArrayEx" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodeWars.*" />
+          <option name="PATTERN" value="Shieldv12.Chapter8.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars.test1" />
+    <configuration name="ShapeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter8.Inheritance.ShapeMain" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shieldv12.Chapter5.OperatorPeregoda.*" />
+          <option name="PATTERN" value="Shieldv12.Chapter8.Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter4.arithmeticOperations.test3" />
+    <configuration name="Shieldv12.Chapter8.InhiritanceEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shieldv12.Chapter8.InhiritanceEx" />
       <module name="Java.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Shieldv12.Chapter4.ArithmeticOperations.*" />
+          <option name="PATTERN" value="Shieldv12.Chapter8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,9 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.ArrayDiffClass" />
-        <item itemvalue="Application.BoxVal" />
+        <item itemvalue="Application.InheritanceMainEx1" />
+        <item itemvalue="Application.ShapeMain" />
+        <item itemvalue="Application.InrehitanceArrayEx" />
+        <item itemvalue="Application.AnimalHierachyMain" />
+        <item itemvalue="Application.Shieldv12.Chapter8.InhiritanceEx" />
       </list>
     </recent_temporary>
   </component>
