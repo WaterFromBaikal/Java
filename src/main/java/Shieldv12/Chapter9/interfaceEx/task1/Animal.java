@@ -18,4 +18,7 @@ public class Animal implements ChildAction{
     public void eat() {
         System.out.println("Om nom nom woof woof");
     }
+    public void sleep(){
+        System.out.println("ZZZZZzzzzzzz");
+    }
 }
