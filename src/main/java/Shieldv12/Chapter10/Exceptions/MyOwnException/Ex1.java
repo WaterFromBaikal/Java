@@ -14,6 +14,7 @@ public class Ex1 {
             }
         } catch (InvalidInputException ie) {
             System.out.println("Название файла не подходит");
+            System.out.println(ie.getMessage());
         }
         try (FileReader fr = new FileReader(filename)) {
         } catch (Exception e) {
